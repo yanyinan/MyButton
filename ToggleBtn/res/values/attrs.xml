@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name = "MyToggleButton">
+        <!-- 背景图片 -->
+        <attr name = "back_img" format = "reference"/>
+        <!-- 按钮图片 -->
+        <attr name = "button_img" format = "reference"/>
+        <!-- 默认开关状态 -->
+        <attr name = "state" format = "boolean"/>
+    </declare-styleable>
+</resources>
